@@ -1,0 +1,55 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="chart" width="420" height="220" aria-labelledby="title" role="img">
+    <style src="./style.css" >
+        .bar {
+          height: 24px !important;
+          transition: fill .3s ease;
+          cursor: pointer;
+          font-family: Helvetica, sans-serif;
+          border-radius: 5px 5px 5px 5px;
+        }
+
+    </style>
+
+    <g class="bar">
+        <rect rx="5" width="420" fill="yellow" height="24"></rect>
+        <text x="10" y="12" font-weight="bold" fill="crimson" dy=".35em">TypeScript</text>
+        <text x="160" y="12" fill="dark" dy=".35em">over 900,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="277" fill="#008b8b" height="24" y="28"></rect>
+        <text x="10" y="40" font-weight="bold" fill="dark" dy=".35em">Python</text>
+        <text x="90" y="40" fill="yellow" dy=".35em">604,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="250" fill="#b8860b" height="24" y="56"></rect>
+        <text x="10" y="68" font-weight="bold" fill="#00FFFF" dy=".35em">Java</text>
+        <text x="80" y="68" fill="dark" dy=".35em">550,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="171" fill="#008000" height="24" y="84"></rect>
+        <text x="10" y="96" font-weight="bold" fill="" dy=".35em">C#</text>
+        <text x="60" y="96" fill="#00FFFF" dy=".35em">375,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="132" fill="#a9a9a9" height="24" y="112"></rect>
+        <text x="10" y="124" font-weight="bold" fill="#556b2f" dy=".35em">PHP</text>
+        <text x="70" y="124" fill="#556b2f" dy=".35em">288,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="128" fill="#00008b" height="24" y="140"></rect>
+        <text x="10" y="152" font-weight="bold" fill="white" dy=".35em">C++</text>
+        <text x="60" y="152" fill="yellow" dy=".35em">280,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="61" fill="crimson" height="24" y="168"></rect>
+        <!-- <rect width="70" fill="white" height="24" y="168" x="65"></rect> -->
+        <text x="10" y="180" font-weight="bold" fill="orange" dy=".35em">Ruby</text>
+        <text x="70" y="180" fill="orange" dy=".35em">134,000</text>
+    </g>
+    <g class="bar">
+        <rect rx="5" width="35" fill="#00ffff" height="24" y="196"></rect>
+         <!-- <rect width="70" fill="white" height="24" y="196" x="65"></rect> -->
+        <text x="10" y="208" font-weight="bold" fill="crimson" dy=".35em">Go</text>
+        <text x="40" y="208" fill="crimson" dy=".35em">59,000</text>
+    </g>
+</svg>
