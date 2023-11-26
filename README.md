@@ -324,6 +324,6 @@ This repository, is under development. It is meant for both beginners and interm
 
 Feel free to reach out with any questions, suggestions, or contributions to:
 
-* [Contact Engineer Adioz Daniel](mailto:<adiozdaniel@gmail.com>?subject=[_Collaboration_on_JAVASCRIPT_FULL_COURSE])
+* [Contact Engineer Adioz Daniel](mailto:<adiozdaniel@gmail.com>?subject=[_Collaboration_on_PYTHON_ENGINEERING_FULL_COURSE])
 
-* [Contact Engineer Happy Chukwuma](mailto:<happychukwuma@gmail.com>?subject=[_Collaboration_on_JAVASCRIPT_FULL_COURSE])
+* [Contact Engineer Happy Chukwuma](mailto:<happychukwuma@gmail.com>?subject=[_Collaboration_on_PYTHON_ENGINEERING_FULL_COURSE])
