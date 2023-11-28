@@ -172,7 +172,7 @@ When making your decision, you should bear several considerations in mind:
 * The steepness of the learning curve your mind and heart can handle.
 * The programming language knowledge you already possess that meshes with your existing coding skills. Remember, we are not talking about just learning a language, but commanding a language.
 * The main area of focus you wish to concentrate on.
-* The industry you wish to up in; or your reasons for learning a top programming language.
+* The industry you wish to work in; or your reasons for learning a top programming language.
 * In this section, we focus on employerbility; the best programming languages in demand among employers in 2023.
 
 ### 1 - JavaScript / TypeScript
