@@ -1,4 +1,4 @@
-# PYTHON SOFTWARE ENGINEER FULL COURSE
+# ![title](css/title.svg)
 
 ![plot](./files/python-white.svg)
 
